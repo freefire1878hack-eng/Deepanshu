@@ -24,14 +24,14 @@
         "device_id": "c027d25d05249888",
         "username": "1",
         "password": "1",
-        "expirydate": "24-08-2025",
+        "expirydate": "30-08-2025",
         "Allowoffline": false
     },
     {
         "device_id": "295e051d7c6b7070",
         "username": "4",
         "password": "8",
-        "expirydate": "24-08-2025",
+        "expirydate": "30-08-2025",
         "Allowoffline": false
     }
 ]
