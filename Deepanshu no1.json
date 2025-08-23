@@ -19,5 +19,12 @@
         "password": "BUY",
         "expirydate": "24-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c027d25d05249888",
+        "username": "1",
+        "password": "1",
+        "expirydate": "24-08-2025",
+        "Allowoffline": false
     }
 ]
