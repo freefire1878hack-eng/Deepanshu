@@ -26,5 +26,12 @@
         "password": "6",
         "expirydate": "31-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a32d5540b6113b7a",
+        "username": "titas",
+        "password": "1",
+        "expirydate": "30-08-2025",
+        "Allowoffline": false
     }
 ]
