@@ -33,5 +33,12 @@
         "password": "1",
         "expirydate": "30-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2e575d8f6c1b1393",
+        "username": "rohit",
+        "password": "1",
+        "expirydate": "03-09-2025",
+        "Allowoffline": false
     }
 ]
